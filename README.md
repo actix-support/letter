@@ -13,6 +13,7 @@ Signed,
 * [Erin Power (@XAMPPRocky)](https://github.com/XAMPPRocky)
 * [Jeremy Lempereur (@o0Ignition0o)](https://github.com/o0Ignition0o)
 * [Daniel Egger (@therealprof)](https://github.com/therealprof)
+* [Darin Gordon (@dowwie)](https://github.com/Dowwie)
 
 ## Other articles of support
 
