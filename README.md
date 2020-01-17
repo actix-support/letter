@@ -25,6 +25,7 @@ Signed,
 * [David Wood (@davidtwco)](https://github.com/davidtwco)
 * [Maxim Vorobjov (@dunnock)](https://github.com/dunnock)
 * [Konrad Borowski (@xfix)](https://github.com/xfix)
+* [Haze Booth (@haze)](https://github.com/haze)
 
 ## Other articles of support
 
