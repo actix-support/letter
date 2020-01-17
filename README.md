@@ -33,6 +33,7 @@ Signed,
 * [Peter Parkanyi (@rsdy)](https://github.com/rsdy)
 * [Corentin Henry @little-dude](https://github.com/little-dude)
 * [Kai Ren @tyranron](https://github.com/tyranron)
+* [Sergey Sova @sergeysova](https://github.com/sergeysova)
 
 ## Other articles of support
 
