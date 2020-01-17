@@ -30,6 +30,8 @@ Signed,
 * [Ravi Shankar (@wafflespeanut)](https://github.com/wafflespeanut)
 * [Dominic @dominicwrege](https://github.com/DominicWrege)
 * [Dustin Bensing (@pythoneer)](https://github.com/pythoneer)
+* [Peter Parkanyi (@rsdy)](https://github.com/rsdy)
+* [Corentin Henry @little-dude](https://github.com/little-dude)
 
 ## Other articles of support
 
