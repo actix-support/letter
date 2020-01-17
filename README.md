@@ -21,7 +21,7 @@ Signed,
 * [Cheolgyu Lim (@cheolgyu)](https://github.com/cheolgyu)
 * [Sean Griffin (@sgrif)](https://github.com/sgrif)
 * [Steven Pease (@spease)](https://github.com/spease)
-* [Mustafa Karakaplan (@karakaplanm)] (https://github.com/karakaplanm)
+* [Mustafa Karakaplan (@karakaplanm)](https://github.com/karakaplanm)
 
 ## Other articles of support
 
