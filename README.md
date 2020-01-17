@@ -28,6 +28,7 @@ Signed,
 * [Haze Booth (@haze)](https://github.com/haze)
 * [Oron Sharabi (@oronsh)](https://github.com/oronsh)
 * [Ravi Shankar (@wafflespeanut)](https://github.com/wafflespeanut)
+* [Dominic @dominicwrege](https://github.com/DominicWrege)
 
 ## Other articles of support
 
