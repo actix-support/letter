@@ -22,6 +22,7 @@ Signed,
 * [Sean Griffin (@sgrif)](https://github.com/sgrif)
 * [Steven Pease (@spease)](https://github.com/spease)
 * [Mustafa Karakaplan (@karakaplanm)](https://github.com/karakaplanm)
+* [David Wood (@davidtwco)](https://github.com/davidtwco)
 
 ## Other articles of support
 
