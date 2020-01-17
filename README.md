@@ -17,6 +17,7 @@ Signed,
 * [Katharina Fey (@spacekookie)](https://spacekookie.de)
 * [Daniel Egger (@therealprof)](https://github.com/therealprof)
 * [Darin Gordon (@dowwie)](https://github.com/Dowwie)
+* [Aaron Hill (@Aaron1011)](https://github.com/Aaron1011)
 
 
 ## Other articles of support
