@@ -1,4 +1,4 @@
-![The actix logo with a bright pink heart](./actix-heart.png)
+<img src="./actix-heart.png" width=150 alt="The actix logo with a bright pink heart">
 
 Dear Nikolay Kim (a.k.a. fafhrd91),
 
@@ -34,7 +34,6 @@ Signed,
 * [Corentin Henry @little-dude](https://github.com/little-dude)
 * [Kai Ren @tyranron](https://github.com/tyranron)
 * [Sergey Sova @sergeysova](https://github.com/sergeysova)
-* [Ilya Venner @ilyavenner](https://github.com/ilyavenner)
 * [Oliver Scherer (@oli-obk)](https://github.com/oli-obk)
 
 ## Other articles of support
