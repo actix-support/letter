@@ -23,6 +23,7 @@ Signed,
 * [Steven Pease (@spease)](https://github.com/spease)
 * [Mustafa Karakaplan (@karakaplanm)](https://github.com/karakaplanm)
 * [David Wood (@davidtwco)](https://github.com/davidtwco)
+* [Maxim Vorobjov (@dunnock)](https://github.com/dunnock)
 
 ## Other articles of support
 
