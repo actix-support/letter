@@ -34,6 +34,7 @@ Signed,
 * [Corentin Henry @little-dude](https://github.com/little-dude)
 * [Kai Ren @tyranron](https://github.com/tyranron)
 * [Sergey Sova @sergeysova](https://github.com/sergeysova)
+* [Oliver Scherer (@oli-obk)](https://github.com/oli-obk)
 
 ## Other articles of support
 
