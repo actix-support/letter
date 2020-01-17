@@ -38,6 +38,7 @@ Signed,
 * [Temirkhan Myrzamadi (@hirrolot)](https://github.com/Hirrolot)
 * [Andrey Kutejko (@andy128k)](https://github.com/andy128k)
 * [Sacha Arbonel @sachaarbonel](https://github.com/sachaarbonel)
+* [Chris Bruce @chrisabruce](https://github.com/chrisabruce)
 
 ## Other articles of support
 
