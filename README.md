@@ -1,3 +1,5 @@
+![The actix logo with a bright pink heart](./actix-heart.png)
+
 Dear Nikolay Kim (a.k.a. fafhrd91),
 
 We are users, contributors, and followers of your work in the Rust community. Over the past three years you have worked on Actix, and have had to endure repeated harassment from a small minority for your contributions to Rust and open source. We are extremely disappointed at the level of abuse directed towards you.
