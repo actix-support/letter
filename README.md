@@ -36,6 +36,7 @@ Signed,
 * [Sergey Sova @sergeysova](https://github.com/sergeysova)
 * [Ilya Venner @ilyavenner](https://github.com/ilyavenner)
 * [Oliver Scherer (@oli-obk)](https://github.com/oli-obk)
+* [Andrey Kutejko (@andy128k)](https://github.com/andy128k)
 
 ## Other articles of support
 
