@@ -12,6 +12,7 @@ Signed,
 * [Dylan DPC (@dpc)](https://github.com/dpc)
 * [Erin Power (@XAMPPRocky)](https://github.com/XAMPPRocky)
 * [Jeremy Lempereur (@o0Ignition0o)](https://github.com/o0Ignition0o)
+* [Daniel Egger (@therealprof)](https://github.com/therealprof)
 
 ## Other articles of support
 
