@@ -18,7 +18,7 @@ Signed,
 * [Daniel Egger (@therealprof)](https://github.com/therealprof)
 * [Darin Gordon (@dowwie)](https://github.com/Dowwie)
 * [Aaron Hill (@Aaron1011)](https://github.com/Aaron1011)
-
+* [Steven Pease (@spease)](https://github.com/spease)
 
 ## Other articles of support
 
