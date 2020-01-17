@@ -14,6 +14,7 @@ Signed,
 * [Jeremy Lempereur (@o0Ignition0o)](https://github.com/o0Ignition0o)
 * [Katharina Fey (@spacekookie)](https://spacekookie.de)
 * [Daniel Egger (@therealprof)](https://github.com/therealprof)
+* [Darin Gordon (@dowwie)](https://github.com/Dowwie)
 
 
 ## Other articles of support
