@@ -24,6 +24,7 @@ Signed,
 * [Mustafa Karakaplan (@karakaplanm)](https://github.com/karakaplanm)
 * [David Wood (@davidtwco)](https://github.com/davidtwco)
 * [Maxim Vorobjov (@dunnock)](https://github.com/dunnock)
+* [Konrad Borowski (@xfix)](https://github.com/xfix)
 
 ## Other articles of support
 
