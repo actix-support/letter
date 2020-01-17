@@ -26,6 +26,7 @@ Signed,
 * [Maxim Vorobjov (@dunnock)](https://github.com/dunnock)
 * [Konrad Borowski (@xfix)](https://github.com/xfix)
 * [Haze Booth (@haze)](https://github.com/haze)
+* [Ravi Shankar (@wafflespeanut)](https://github.com/wafflespeanut)
 
 ## Other articles of support
 
