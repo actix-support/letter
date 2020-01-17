@@ -29,6 +29,7 @@ Signed,
 * [Oron Sharabi (@oronsh)](https://github.com/oronsh)
 * [Ravi Shankar (@wafflespeanut)](https://github.com/wafflespeanut)
 * [Dominic @dominicwrege](https://github.com/DominicWrege)
+* [Peter Parkanyi (@rsdy)](https://github.com/rsdy)
 * [Corentin Henry @little-dude](https://github.com/little-dude)
 
 ## Other articles of support
