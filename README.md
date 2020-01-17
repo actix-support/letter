@@ -35,6 +35,7 @@ Signed,
 * [Kai Ren @tyranron](https://github.com/tyranron)
 * [Sergey Sova @sergeysova](https://github.com/sergeysova)
 * [Oliver Scherer (@oli-obk)](https://github.com/oli-obk)
+* [Temirkhan Myrzamadi (@hirrolot)](https://github.com/Hirrolot)
 
 ## Other articles of support
 
