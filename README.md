@@ -20,6 +20,7 @@ Signed,
 * [Aaron Hill (@Aaron1011)](https://github.com/Aaron1011)
 * [Cheolgyu Lim (@cheolgyu)](https://github.com/cheolgyu)
 * [Sean Griffin (@sgrif)](https://github.com/sgrif)
+* [Steven Pease (@spease)](https://github.com/spease)
 
 ## Other articles of support
 
