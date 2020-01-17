@@ -19,7 +19,7 @@ Signed,
 * [Darin Gordon (@dowwie)](https://github.com/Dowwie)
 * [Aaron Hill (@Aaron1011)](https://github.com/Aaron1011)
 * [Cheolgyu Lim (@cheolgyu)](https://github.com/cheolgyu)
-
+* [Sean Griffin (@sgrif)](https://github.com/sgrif)
 
 ## Other articles of support
 
