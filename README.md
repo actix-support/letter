@@ -11,7 +11,7 @@ Thank you so much for bringing Actix to the world and your contributions to the 
 Signed,
 
 * [Corey Farwell (@frewsxcv)](https://rwell.org)
-* [Dylan DPC (@dpc)](https://github.com/dpc)
+* [Dylan DPC (@Dylan-DPC)](https://github.com/Dylan-DPC)
 * [Erin Power (@XAMPPRocky)](https://github.com/XAMPPRocky)
 * [Jeremy Lempereur (@o0Ignition0o)](https://github.com/o0Ignition0o)
 * [Katharina Fey (@spacekookie)](https://spacekookie.de)
