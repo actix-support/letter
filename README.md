@@ -78,6 +78,7 @@ Signed,
 * [Alexander Tchitchigin](https://github.com/gabriel-fallen)
 * [Devdutt Shenoi (@de-sh)](https://github.com/de-sh)
 * [Jonas Platte (@jplatte)](https://github.com/jplatte)
+* [Mikhail Pak (@mp4096)](https://github.com/mp4096)
 
 ## Other articles of support
 
