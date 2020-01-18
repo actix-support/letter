@@ -58,6 +58,7 @@ Signed,
 * [Alik Aslanyan (@in-line)](https://github.com/in-line)
 * [Geronimo Garcia Sgritta (@DarkThrone)](https://github.com/darkthrone)
 * [Dessalines (@dessalines)](https://github.com/dessalines)
+* [Nithin Reddy (@rednithin)](https://github.com/rednithin)
 
 ## Other articles of support
 
