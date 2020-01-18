@@ -45,6 +45,8 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Xu Desheng (@xudesheng)](https://github.com/xudesheng)
+
 
 ## Other articles of support
 
