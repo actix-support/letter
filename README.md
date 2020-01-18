@@ -65,6 +65,7 @@ Signed,
 * [Hendrik Sollich (@hoodie_de)](https://github.com/hoodie)
 * [Valentin Ricard (@redblueflame)](https://github.com/redblueflame)
 * [Mathieu Amiot (OtaK)](https://github.com/OtaK)
+* [Reese Williams (@reese)](https://github.com/reese)
 * [Roman Frołow (rofrol)](https://github.com/rofrol)
 * [Qu Ran(@Praying)](https://github.com/Praying)
 
