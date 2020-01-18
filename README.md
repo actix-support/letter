@@ -72,6 +72,7 @@ Signed,
 * [Reese Williams (@reese)](https://github.com/reese)
 * [Roman Frołow (rofrol)](https://github.com/rofrol)
 * [Qu Ran(@Praying)](https://github.com/Praying)
+* [Lachezar Lechev (@elpiel)](https://github.com/elpiel)
 
 ## Other articles of support
 
