@@ -46,6 +46,7 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Asan Kondo (@k-nasa)](https://github.com/k-nasa)
 * [Alik Aslanyan (@in-line)](https://github.com/in-line)
 * [Geronimo Garcia Sgritta (@DarkThrone)](https://github.com/darkthrone)
 * [Dessalines (@dessalines)](https://github.com/dessalines)
