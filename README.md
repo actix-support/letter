@@ -79,7 +79,7 @@ Signed,
 * [Devdutt Shenoi (@de-sh)](https://github.com/de-sh)
 * [Jonas Platte (@jplatte)](https://github.com/jplatte)
 * [Mikhail Pak (@mp4096)](https://github.com/mp4096)
-
+* [Ivan Barayev(@ivanbarayev)](https://github.com/ivanbarayev)
 ## Other articles of support
 
 * [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
