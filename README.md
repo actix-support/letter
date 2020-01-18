@@ -66,6 +66,12 @@ Signed,
 * [Valentin Ricard (@redblueflame)](https://github.com/redblueflame)
 * [Mathieu Amiot (OtaK)](https://github.com/OtaK)
 * [Andre Bogus (@llogiq)](https://github.com/llogiq)
+* [Zhang Zhongyu (@zzy)](https://github.com/zzy)
+* [Cyril Plisko (@imp)](https://github.com/imp)
+* [Daniel Boline (ddboline)](https://github.com/ddboline)
+* [Reese Williams (@reese)](https://github.com/reese)
+* [Roman Frołow (rofrol)](https://github.com/rofrol)
+* [Qu Ran(@Praying)](https://github.com/Praying)
 
 ## Other articles of support
 
