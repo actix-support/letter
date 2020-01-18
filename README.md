@@ -39,6 +39,7 @@ Signed,
 * [Andrey Kutejko (@andy128k)](https://github.com/andy128k)
 * [Sacha Arbonel @sachaarbonel](https://github.com/sachaarbonel)
 * [Chris Bruce @chrisabruce](https://github.com/chrisabruce)
+* [Daniel Boline (@ddboline)](https://github.com/ddboline)
 
 ## Other articles of support
 
