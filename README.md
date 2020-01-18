@@ -45,6 +45,7 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Geronimo Garcia Sgritta (@DarkThrone)](https://github.com/darkthrone)
 * [Dessalines (@dessalines)](https://github.com/dessalines)
 
 ## Other articles of support
