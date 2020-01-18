@@ -35,6 +35,7 @@ Signed,
 * [Kai Ren @tyranron](https://github.com/tyranron)
 * [Sergey Sova @sergeysova](https://github.com/sergeysova)
 * [Oliver Scherer (@oli-obk)](https://github.com/oli-obk)
+* [Yuki Okushi (@JohnTitor)](https://github.com/JohnTitor)
 * [Temirkhan Myrzamadi (@hirrolot)](https://github.com/Hirrolot)
 * [Andrey Kutejko (@andy128k)](https://github.com/andy128k)
 * [Sacha Arbonel @sachaarbonel](https://github.com/sachaarbonel)
@@ -46,6 +47,16 @@ Signed,
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
 * [Scott Checko (@schecko)](https://github.com/schecko)
+* [Anthony Dodd @thedodd](https://github.com/thedodd)
+* [Luca Barbato (@lu-zero)](https://github.com/lu-zero)
+* [Deri Herdianto (@deikatsuo)](https://github.com/deikatsuo)
+* [Raphaël Thériault (@raftario)](https://github.com/raftario)
+* [Restioson (@restioson)](https://github.com/Restioson)
+* [Andy Yong (@kwokhou)](https://github.com/kwokhou)
+* [Asan Kondo (@k-nasa)](https://github.com/k-nasa)
+* [Alik Aslanyan (@in-line)](https://github.com/in-line)
+* [Geronimo Garcia Sgritta (@DarkThrone)](https://github.com/darkthrone)
+* [Dessalines (@dessalines)](https://github.com/dessalines)
 
 ## Other articles of support
 
