@@ -83,6 +83,7 @@ Signed,
 * [Yury Zhauniarovich (@zyrikby)](https://github.com/zyrikby)
 * [Jonas Schievink (@jonas-schievink)](https://github.com/jonas-schievink/)
 * [Clark Kampfe (@ckampfe)](https://github.com/ckampfe/)
+* [Takanori Ishibashi (@11Takanori)](https://github.com/11Takanori)
 
 ## Other articles of support
 
