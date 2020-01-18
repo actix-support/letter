@@ -46,6 +46,7 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Scott Checko (@schecko)](https://github.com/schecko)
 * [Anthony Dodd @thedodd](https://github.com/thedodd)
 * [Luca Barbato (@lu-zero)](https://github.com/lu-zero)
 * [Deri Herdianto (@deikatsuo)](https://github.com/deikatsuo)
