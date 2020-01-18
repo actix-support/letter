@@ -82,6 +82,7 @@ Signed,
 * [Ivan Barayev(@ivanbarayev)](https://github.com/ivanbarayev)
 * [Yury Zhauniarovich (@zyrikby)](https://github.com/zyrikby)
 * [Jonas Schievink (@jonas-schievink)](https://github.com/jonas-schievink/)
+* [Clark Kampfe (@ckampfe)](https://github.com/ckampfe/)
 
 ## Other articles of support
 
