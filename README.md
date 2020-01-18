@@ -35,6 +35,7 @@ Signed,
 * [Kai Ren @tyranron](https://github.com/tyranron)
 * [Sergey Sova @sergeysova](https://github.com/sergeysova)
 * [Oliver Scherer (@oli-obk)](https://github.com/oli-obk)
+* [Yuki Okushi (@JohnTitor)](https://github.com/JohnTitor)
 * [Temirkhan Myrzamadi (@hirrolot)](https://github.com/Hirrolot)
 * [Andrey Kutejko (@andy128k)](https://github.com/andy128k)
 * [Sacha Arbonel @sachaarbonel](https://github.com/sachaarbonel)
@@ -46,6 +47,8 @@ Signed,
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
 * [Alik Aslanyan (@in-line)](https://github.com/in-line)
+* [Geronimo Garcia Sgritta (@DarkThrone)](https://github.com/darkthrone)
+* [Dessalines (@dessalines)](https://github.com/dessalines)
 
 ## Other articles of support
 
