@@ -40,7 +40,10 @@ Signed,
 * [Sacha Arbonel @sachaarbonel](https://github.com/sachaarbonel)
 * [Chris Bruce @chrisabruce](https://github.com/chrisabruce)
 * [Fernando Mendez @fmendez](https://github.com/fmendez)
-
+* [George Wheeler @dewey4iv](https://github.com/dewey4iv)
+* [Idan Arye (@idanarye)](https://github.com/idanarye)
+* [Tony Tomko @mellondill](https://github.com/Mellondill)
+* [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
 
 ## Other articles of support
 
