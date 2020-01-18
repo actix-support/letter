@@ -39,6 +39,7 @@ Signed,
 * [Andrey Kutejko (@andy128k)](https://github.com/andy128k)
 * [Sacha Arbonel @sachaarbonel](https://github.com/sachaarbonel)
 * [Chris Bruce @chrisabruce](https://github.com/chrisabruce)
+* [Yolier Galan @gallegogt](https://github.com/gallegogt)
 * [Fernando Mendez @fmendez](https://github.com/fmendez)
 * [George Wheeler @dewey4iv](https://github.com/dewey4iv)
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
