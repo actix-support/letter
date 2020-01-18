@@ -81,6 +81,7 @@ Signed,
 * [Mikhail Pak (@mp4096)](https://github.com/mp4096)
 * [Ivan Barayev(@ivanbarayev)](https://github.com/ivanbarayev)
 * [Yury Zhauniarovich (@zyrikby)](https://github.com/zyrikby)
+* [Jonas Schievink (@jonas-schievink)](https://github.com/jonas-schievink/)
 
 ## Other articles of support
 
