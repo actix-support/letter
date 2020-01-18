@@ -45,6 +45,7 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Luca Barbato (@lu-zero)](https://github.com/lu-zero)
 
 ## Other articles of support
 
