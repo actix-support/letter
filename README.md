@@ -60,6 +60,7 @@ Signed,
 * [Dessalines (@dessalines)](https://github.com/dessalines)
 * [Nithin Reddy (@rednithin)](https://github.com/rednithin)
 * [Aditya Kresna(@Ujang360)](https://github.com/Ujang360)
+* [Rich Murphey(@rich-murphey)](https://github.com/rich-murphey)
 
 ## Other articles of support
 
