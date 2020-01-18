@@ -45,6 +45,7 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Asan Kondo (@k-nasa)](https://github.com/k-nasa)
 
 ## Other articles of support
 
