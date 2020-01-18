@@ -65,6 +65,7 @@ Signed,
 * [Hendrik Sollich (@hoodie_de)](https://github.com/hoodie)
 * [Valentin Ricard (@redblueflame)](https://github.com/redblueflame)
 * [Mathieu Amiot (OtaK)](https://github.com/OtaK)
+* [Donghyeok Tak (@tdh8316)](https://github.com/tdh8316)
 
 ## Other articles of support
 
