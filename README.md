@@ -80,6 +80,7 @@ Signed,
 * [Jonas Platte (@jplatte)](https://github.com/jplatte)
 * [Mikhail Pak (@mp4096)](https://github.com/mp4096)
 * [Ivan Barayev(@ivanbarayev)](https://github.com/ivanbarayev)
+* [Yury Zhauniarovich (@zyrikby)](https://github.com/zyrikby)
 
 ## Other articles of support
 
