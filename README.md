@@ -63,6 +63,7 @@ Signed,
 * [Rich Murphey(@rich-murphey)](https://github.com/rich-murphey)
 * [Starfear(@starfear)](https://github.com/starfear)
 * [Hendrik Sollich (@hoodie_de)](https://github.com/hoodie)
+* [Valentin Ricard (@redblueflame)](https://github.com/redblueflame)
 
 ## Other articles of support
 
