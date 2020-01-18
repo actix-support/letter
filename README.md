@@ -45,6 +45,7 @@ Signed,
 * [Idan Arye (@idanarye)](https://github.com/idanarye)
 * [Tony Tomko @mellondill](https://github.com/Mellondill)
 * [Pietro Albini (@pietroalbini)](https://github.com/pietroalbini)
+* [Scott Checko (@schecko)](https://github.com/schecko)
 
 ## Other articles of support
 
