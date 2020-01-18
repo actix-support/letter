@@ -66,6 +66,7 @@ Signed,
 * [Valentin Ricard (@redblueflame)](https://github.com/redblueflame)
 * [Mathieu Amiot (OtaK)](https://github.com/OtaK)
 * [Roman Frołow (rofrol)](https://github.com/rofrol)
+* [Qu Ran(@Praying)](https://github.com/Praying)
 
 ## Other articles of support
 
