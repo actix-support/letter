@@ -73,6 +73,7 @@ Signed,
 * [Roman Frołow (rofrol)](https://github.com/rofrol)
 * [Qu Ran(@Praying)](https://github.com/Praying)
 * [Lachezar Lechev (@elpiel)](https://github.com/elpiel)
+* [Devdutt Shenoi (@de-sh)](https://github.com/de-sh)
 
 ## Other articles of support
 
