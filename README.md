@@ -65,6 +65,7 @@ Signed,
 * [Hendrik Sollich (@hoodie_de)](https://github.com/hoodie)
 * [Valentin Ricard (@redblueflame)](https://github.com/redblueflame)
 * [Mathieu Amiot (OtaK)](https://github.com/OtaK)
+* [Andre Bogus (@llogiq)](https://github.com/llogiq)
 * [Zhang Zhongyu (@zzy)](https://github.com/zzy)
 * [Cyril Plisko (@imp)](https://github.com/imp)
 * [Daniel Boline (ddboline)](https://github.com/ddboline)
