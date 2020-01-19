@@ -92,6 +92,7 @@ Signed,
 * [Roberto Huertas (@robertohuertasm)](https://github.com/robertohuertasm) 
 * [Rob Ede (@robjtede)](https://github.com/robjtede)
 * [Jan Christian Grünhage (@jcgruenhage)](https://jcg.re)
+* [Héctor Álvarez Díaz(@ecalvadi)](https://github.com/ecalvadi)
 
 ## Other articles of support
 
