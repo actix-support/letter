@@ -91,6 +91,7 @@ Signed,
 * [David Palm (@dvdplm)](https://github.com/dvdplm)
 * [Roberto Huertas (@robertohuertasm)](https://github.com/robertohuertasm) 
 * [Rob Ede (@robjtede)](https://github.com/robjtede)
+* [Jan Christian Grünhage (@jcgruenhage)](https://jcg.re)
 
 ## Other articles of support
 
