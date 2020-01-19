@@ -86,6 +86,7 @@ Signed,
 * [Takanori Ishibashi (@11Takanori)](https://github.com/11Takanori)
 * [Tobias Bieniek (@Turbo87)](https://github.com/Turbo87)
 * [Kyle Jensen (@kljensen)](https://github.com/kljensen)
+* [Jon Richards (@jonrichards)](https://github.com/jonrichards)
 
 ## Other articles of support
 
