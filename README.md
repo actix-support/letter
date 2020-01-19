@@ -89,7 +89,7 @@ Signed,
 * [Jon Richards (@jonrichards)](https://github.com/jonrichards)
 * [Santiago Pastorino (@spastorino)](https://github.com/spastorino)
 * [David Palm (@dvdplm)](https://github.com/dvdplm)
-* [Roberto Huertas @robertohuertasm](https://github.com/robertohuertasm) 
+* [Roberto Huertas (@robertohuertasm)](https://github.com/robertohuertasm) 
 * [Rob Ede (@robjtede)](https://github.com/robjtede)
 
 ## Other articles of support
