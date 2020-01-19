@@ -87,6 +87,7 @@ Signed,
 * [Tobias Bieniek (@Turbo87)](https://github.com/Turbo87)
 * [Kyle Jensen (@kljensen)](https://github.com/kljensen)
 * [Jon Richards (@jonrichards)](https://github.com/jonrichards)
+* [Santiago Pastorino (@spastorino)](https://github.com/spastorino)
 
 ## Other articles of support
 
