@@ -88,6 +88,7 @@ Signed,
 * [Kyle Jensen (@kljensen)](https://github.com/kljensen)
 * [Jon Richards (@jonrichards)](https://github.com/jonrichards)
 * [Santiago Pastorino (@spastorino)](https://github.com/spastorino)
+* [David Palm (@dvdplm)](https://github.com/dvdplm)
 
 ## Other articles of support
 
