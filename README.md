@@ -94,7 +94,6 @@ Signed,
 * [Jan Christian Grünhage (@jcgruenhage)](https://jcg.re)
 * [Héctor Álvarez Díaz(@ecalvadi)](https://github.com/ecalvadi)
 
-
 ## Other articles of support
 
 * [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
