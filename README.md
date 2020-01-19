@@ -85,6 +85,7 @@ Signed,
 * [Clark Kampfe (@ckampfe)](https://github.com/ckampfe/)
 * [Takanori Ishibashi (@11Takanori)](https://github.com/11Takanori)
 * [Tobias Bieniek (@Turbo87)](https://github.com/Turbo87)
+* [Jon Richards (@jonrichards)](https://github.com/jonrichards)
 
 ## Other articles of support
 
