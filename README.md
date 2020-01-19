@@ -93,6 +93,7 @@ Signed,
 * [Rob Ede (@robjtede)](https://github.com/robjtede)
 * [Jan Christian Grünhage (@jcgruenhage)](https://jcg.re)
 * [Héctor Álvarez Díaz(@ecalvadi)](https://github.com/ecalvadi)
+* [Andrii Radyk(@AnderEnder)](https://github.com/AnderEnder)
 
 ## Other articles of support
 
