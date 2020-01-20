@@ -106,6 +106,7 @@ Signed,
 * [Michael P. Jung (@bikeshedder)](https://github.com/bikeshedder)
 * [Valentin Cocaud (@EmrysMyrddin](https://github.com/EmrysMyrddin)
 * [Tuong Nguyen (@Zrus)](https://github.com/Zrus)
+* [Jérôme Schneider (@netgusto)](https://github.com/netgusto)
 
 ## Other articles of support
 
