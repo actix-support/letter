@@ -104,6 +104,7 @@ Signed,
 * [Martijn Groeneveldt (@dutchmartin)](https://github.com/dutchmartin)
 * [René Ribaud (@Uggla_)](https://github.com/uggla)
 * [Michael P. Jung (@bikeshedder)](https://github.com/bikeshedder)
+* [Valentin Cocaud (@EmrysMyrddin](https://github.com/EmrysMyrddin)
 
 ## Other articles of support
 
