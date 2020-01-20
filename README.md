@@ -105,6 +105,7 @@ Signed,
 * [René Ribaud (@Uggla_)](https://github.com/uggla)
 * [Michael P. Jung (@bikeshedder)](https://github.com/bikeshedder)
 * [Tuong Nguyen (@Zrus)] (https://github.com/Zrus)
+
 ## Other articles of support
 
 * [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
