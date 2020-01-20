@@ -102,6 +102,7 @@ Signed,
 * [Daniel Blanco (@zareone)](https://github.com/zareone)
 * [Andy Balaam (@andybalaam)](http://artificialworlds.net)
 * [Martijn Groeneveldt (@dutchmartin)](https://github.com/dutchmartin)
+* [René Ribaud (@Uggla_)](https://github.com/uggla)
 
 ## Other articles of support
 
