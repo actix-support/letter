@@ -98,6 +98,7 @@ Signed,
 * [Dao Cuong(@daocuong](https://github.com/DAOCUONG/)
 * [Thai Ngo(@ngoluuduythai)](https://github.com/ngoluuduythai)
 * [Em Nguyen(@emnvn)](https://github.com/emnvn)
+* [Alberto Méndez (@alberss)](https://github.com/alberss)
 
 ## Other articles of support
 
