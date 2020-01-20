@@ -96,6 +96,8 @@ Signed,
 * [Andrii Radyk(@AnderEnder)](https://github.com/AnderEnder)
 * [Guillaume Balaine(@Igosuki)](https://github.com/Igosuki)
 * [Dao Cuong(@daocuong](https://github.com/DAOCUONG/)
+* [Thai Ngo(@ngoluuduythai)](https://github.com/ngoluuduythai)
+
 ## Other articles of support
 
 * [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
