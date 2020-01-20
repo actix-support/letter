@@ -105,6 +105,8 @@ Signed,
 * [René Ribaud (@Uggla_)](https://github.com/uggla)
 * [Michael P. Jung (@bikeshedder)](https://github.com/bikeshedder)
 * [Cristián Arenas U. (@NinoScript)](https://github.com/NinoScript)
+* [Valentin Cocaud (@EmrysMyrddin](https://github.com/EmrysMyrddin)
+* [Tuong Nguyen (@Zrus)](https://github.com/Zrus)
 
 ## Other articles of support
 
