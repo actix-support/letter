@@ -103,6 +103,7 @@ Signed,
 * [Andy Balaam (@andybalaam)](http://artificialworlds.net)
 * [Martijn Groeneveldt (@dutchmartin)](https://github.com/dutchmartin)
 * [René Ribaud (@Uggla_)](https://github.com/uggla)
+* [Michael P. Jung (@bikeshedder)](https://github.com/bikeshedder)
 
 ## Other articles of support
 
