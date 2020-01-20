@@ -99,6 +99,7 @@ Signed,
 * [Thai Ngo(@ngoluuduythai)](https://github.com/ngoluuduythai)
 * [Em Nguyen(@emnvn)](https://github.com/emnvn)
 * [Alberto Méndez (@alberss)](https://github.com/alberss)
+* [Daniel Blanco (@zareone)](https://github.com/zareone)
 
 ## Other articles of support
 
