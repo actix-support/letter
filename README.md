@@ -108,6 +108,7 @@ Signed,
 * [Valentin Cocaud (@EmrysMyrddin](https://github.com/EmrysMyrddin)
 * [Tuong Nguyen (@Zrus)](https://github.com/Zrus)
 * [Jérôme Schneider (@netgusto)](https://github.com/netgusto)
+* [Tri Nguyen (@ndtri)](https://github.com/ndtri)
 
 ## Other articles of support
 
