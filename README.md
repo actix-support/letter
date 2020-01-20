@@ -111,6 +111,7 @@ Signed,
 * [Tri Nguyen (@ndtri)](https://github.com/ndtri)
 * [Tran Duc Nam (@dynamotn)](https://github.com/dynamotn)
 * [Dan (@danloh)](https://github.com/danloh)
+* [Dylan McNamee (@dylanmc)](https://github.com/dylanmc)
 
 ## Other articles of support
 
