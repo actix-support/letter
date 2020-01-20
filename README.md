@@ -114,4 +114,4 @@ Signed,
 ## Other articles of support
 
 * [A sad day for Rust](https://words.steveklabnik.com/a-sad-day-for-rust)
-* [Thank you for your service](https://github.com/actix/actix-web/issues/4)
+* [Thank you for your service](https://github.com/actix/actix-web-postmortem/issues/4)
