@@ -95,6 +95,7 @@ Signed,
 * [Héctor Álvarez Díaz(@ecalvadi)](https://github.com/ecalvadi)
 * [Andrii Radyk(@AnderEnder)](https://github.com/AnderEnder)
 * [Guillaume Balaine(@Igosuki)](https://github.com/Igosuki)
+* [Dao Cuong(@daocuong](https://github.com/DAOCUONG/)
 * [Thai Ngo(@ngoluuduythai)](https://github.com/ngoluuduythai)
 
 ## Other articles of support
