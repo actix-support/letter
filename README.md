@@ -94,6 +94,7 @@ Signed,
 * [Jan Christian Grünhage (@jcgruenhage)](https://jcg.re)
 * [Héctor Álvarez Díaz(@ecalvadi)](https://github.com/ecalvadi)
 * [Andrii Radyk(@AnderEnder)](https://github.com/AnderEnder)
+* [Guillaume Balaine(@Igosuki)](https://github.com/Igosuki)
 
 ## Other articles of support
 
