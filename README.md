@@ -109,6 +109,7 @@ Signed,
 * [Tuong Nguyen (@Zrus)](https://github.com/Zrus)
 * [Jérôme Schneider (@netgusto)](https://github.com/netgusto)
 * [Tri Nguyen (@ndtri)](https://github.com/ndtri)
+* [Tran Duc Nam (@dynamotn)](https://github.com/dynamotn)
 
 ## Other articles of support
 
