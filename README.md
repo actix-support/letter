@@ -97,6 +97,7 @@ Signed,
 * [Guillaume Balaine(@Igosuki)](https://github.com/Igosuki)
 * [Dao Cuong(@daocuong](https://github.com/DAOCUONG/)
 * [Thai Ngo(@ngoluuduythai)](https://github.com/ngoluuduythai)
+* [Em Nguyen(@emnvn)](https://github.com/emnvn)
 
 ## Other articles of support
 
