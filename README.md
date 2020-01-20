@@ -112,6 +112,7 @@ Signed,
 * [Tran Duc Nam (@dynamotn)](https://github.com/dynamotn)
 * [Dan (@danloh)](https://github.com/danloh)
 * [Dylan McNamee (@dylanmc)](https://github.com/dylanmc)
+* [Nicolai Unrein (@nicolaiunrein)](https://github.com/nicolaiunrein)
 
 ## Other articles of support
 
