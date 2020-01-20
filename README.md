@@ -100,6 +100,7 @@ Signed,
 * [Em Nguyen(@emnvn)](https://github.com/emnvn)
 * [Alberto Méndez (@alberss)](https://github.com/alberss)
 * [Daniel Blanco (@zareone)](https://github.com/zareone)
+* [Andy Balaam (@andybalaam)](http://artificialworlds.net)
 
 ## Other articles of support
 
