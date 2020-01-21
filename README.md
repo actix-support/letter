@@ -115,6 +115,7 @@ Signed,
 * [Dylan McNamee (@dylanmc)](https://github.com/dylanmc)
 * [Nicolai Unrein (@nicolaiunrein)](https://github.com/nicolaiunrein)
 * [Dusk Banks (@bb010g)](https://github.com/bb100g)
+* [Gaurav Jha (@gauravjha021)](https://github.com/gauravjha021)
 
 ## Other articles of support
 
