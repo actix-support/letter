@@ -118,6 +118,7 @@ Signed,
 * [Gaurav Jha (@gauravjha021)](https://github.com/gauravjha021)
 * [Christian Perez-Llamas (@chris-zen)](https://github.com/chris-zen)
 * [Ivan Fraixedes (@ifraixedes)](https://github.com/ifraixedes)
+* [Jayson Reis (@jaysonsantos)](https://github.com/jaysonsantos)
 
 ## Other articles of support
 
