@@ -113,6 +113,7 @@ Signed,
 * [Dan (@danloh)](https://github.com/danloh)
 * [Dylan McNamee (@dylanmc)](https://github.com/dylanmc)
 * [Nicolai Unrein (@nicolaiunrein)](https://github.com/nicolaiunrein)
+* [Dusk Banks (@bb010g)](https://github.com/bb100g)
 
 ## Other articles of support
 
