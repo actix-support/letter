@@ -116,6 +116,7 @@ Signed,
 * [Nicolai Unrein (@nicolaiunrein)](https://github.com/nicolaiunrein)
 * [Dusk Banks (@bb010g)](https://github.com/bb100g)
 * [Gaurav Jha (@gauravjha021)](https://github.com/gauravjha021)
+* [Christian Perez-Llamas (@chris-zen)](https://github.com/chris-zen)
 
 ## Other articles of support
 
