@@ -117,6 +117,7 @@ Signed,
 * [Dusk Banks (@bb010g)](https://github.com/bb100g)
 * [Gaurav Jha (@gauravjha021)](https://github.com/gauravjha021)
 * [Christian Perez-Llamas (@chris-zen)](https://github.com/chris-zen)
+* [Ivan Fraixedes (@ifraixedes)](https://github.com/ifraixedes)
 
 ## Other articles of support
 
