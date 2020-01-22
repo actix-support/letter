@@ -119,7 +119,7 @@ Signed,
 * [Christian Perez-Llamas (@chris-zen)](https://github.com/chris-zen)
 * [Ivan Fraixedes (@ifraixedes)](https://github.com/ifraixedes)
 * [Jayson Reis (@jaysonsantos)](https://github.com/jaysonsantos)
-* [Greg Edwards (@greglearns)][https://github.com/greglearns)
+* [Greg Edwards (@greglearns)](https://github.com/greglearns)
 
 ## Other articles of support
 
