@@ -121,6 +121,7 @@ Signed,
 * [Ivan Fraixedes (@ifraixedes)](https://github.com/ifraixedes)
 * [Jayson Reis (@jaysonsantos)](https://github.com/jaysonsantos)
 * [Greg Edwards (@greglearns)](https://github.com/greglearns)
+* [Brandon Arp (@brandonarp)](https://github.com/brandonarp)
 
 ## Other articles of support
 
