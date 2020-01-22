@@ -117,6 +117,7 @@ Signed,
 * [Dusk Banks (@bb010g)](https://github.com/bb100g)
 * [Gaurav Jha (@gauravjha021)](https://github.com/gauravjha021)
 * [Christian Perez-Llamas (@chris-zen)](https://github.com/chris-zen)
+* [Ilya Venner (@ilyavenner)](https://github.com/ilyavenner)
 * [Ivan Fraixedes (@ifraixedes)](https://github.com/ifraixedes)
 * [Jayson Reis (@jaysonsantos)](https://github.com/jaysonsantos)
 * [Greg Edwards (@greglearns)](https://github.com/greglearns)
