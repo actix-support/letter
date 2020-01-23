@@ -122,6 +122,9 @@ Signed,
 * [Jayson Reis (@jaysonsantos)](https://github.com/jaysonsantos)
 * [Greg Edwards (@greglearns)](https://github.com/greglearns)
 * [Brandon Arp (@brandonarp)](https://github.com/brandonarp)
+* [Michał Pokrywka (@sfisol)](https://github.com/sfisol)
+* [Grzegorz Szeliga (@szagi3891)](https://github.com/szagi3891)
+* [Vlad Ovinnikov (@VladOvinnikov)](https://github.com/VladOvinnikov)
 
 ## Other articles of support
 
