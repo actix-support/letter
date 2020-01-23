@@ -126,6 +126,7 @@ Signed,
 * [Grzegorz Szeliga (@szagi3891)](https://github.com/szagi3891)
 * [Vlad Ovinnikov (@VladOvinnikov)](https://github.com/VladOvinnikov)
 * [Nicolas Talle (@Nicolab)](https://github.com/Nicolab)
+* [Tim van Scherpenzeel (@timvanscherpenzeel)](https://github.com/timvanscherpenzeel)
 
 ## Other articles of support
 
