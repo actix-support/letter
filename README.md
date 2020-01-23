@@ -127,6 +127,7 @@ Signed,
 * [Vlad Ovinnikov (@VladOvinnikov)](https://github.com/VladOvinnikov)
 * [Nicolas Talle (@Nicolab)](https://github.com/Nicolab)
 * [Tim van Scherpenzeel (@timvanscherpenzeel)](https://github.com/timvanscherpenzeel)
+* [Milan Zivkovic (@zmilan)](https://github.com/zmilan)
 
 ## Other articles of support
 
