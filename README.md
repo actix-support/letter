@@ -125,6 +125,7 @@ Signed,
 * [Michał Pokrywka (@sfisol)](https://github.com/sfisol)
 * [Grzegorz Szeliga (@szagi3891)](https://github.com/szagi3891)
 * [Vlad Ovinnikov (@VladOvinnikov)](https://github.com/VladOvinnikov)
+* [Nicolas Talle (@Nicolab)](https://github.com/Nicolab)
 
 ## Other articles of support
 
