@@ -130,6 +130,7 @@ Signed,
 * [Milan Zivkovic (@zmilan)](https://github.com/zmilan)
 * [Tuan Pham (@KGRC199913)](https://github.com/KGRC199913)
 * [Gökay Okyay (@gokayokyay)](https://github.com/gokayokyay)
+* [Rubi Jihantoro (@codenoid)](https://github.com/codenoid)
 
 ## Other articles of support
 
